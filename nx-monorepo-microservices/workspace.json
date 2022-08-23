@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "svc-data-logger": "apps/svc-data-logger",
+    "svc-data-manager": "apps/svc-data-manager",
+    "svc-instrument": "apps/svc-instrument"
+  }
+}
